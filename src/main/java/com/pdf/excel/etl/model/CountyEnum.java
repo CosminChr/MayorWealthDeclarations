@@ -3,6 +3,10 @@ package com.pdf.excel.etl.model;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
 
+/**
+ * Author: Cosmin Chiriac
+ * Date: 2025-03-01
+ */
 @RequiredArgsConstructor
 @Getter
 public enum CountyEnum

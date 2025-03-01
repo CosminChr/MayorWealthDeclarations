@@ -1,9 +1,12 @@
 package com.pdf.excel.etl.model;
 
-import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 
+/**
+ * Author: Cosmin Chiriac
+ * Date: 2025-03-01
+ */
 import java.util.Objects;
 
 @Getter

@@ -7,6 +7,10 @@ import java.nio.file.Paths;
 import java.util.List;
 import java.util.stream.Stream;
 
+/**
+ * Author: Cosmin Chiriac
+ * Date: 2025-03-01
+ */
 public class FileSystemHelper {
   public File createPdfFile(String pdfFileName) {
     final File file = new File(pdfFileName);

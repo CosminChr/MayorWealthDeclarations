@@ -5,6 +5,10 @@ import technology.tabula.RectangularTextContainer;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
+/**
+ * Author: Cosmin Chiriac
+ * Date: 2025-03-01
+ */
 public class TextOperationsHelper {
   public void skipDuplicatedPenultimateRow(StringBuilder text) {
     String duplicatePenultimatePipeRowPattern = ".*\\|.*\\|.*\\|.*\\|.*\\|.*\\|.*\\||.*\\|";

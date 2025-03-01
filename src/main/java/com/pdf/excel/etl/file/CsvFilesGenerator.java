@@ -15,6 +15,10 @@ import java.io.PrintWriter;
 import java.nio.charset.StandardCharsets;
 import java.util.Set;
 
+/**
+ * Author: Cosmin Chiriac
+ * Date: 2025-03-01
+ */
 public class CsvFilesGenerator {
 
   public void generateCsvFiles(Set<Owner> owners) throws IOException {

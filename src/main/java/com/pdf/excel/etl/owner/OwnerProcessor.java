@@ -32,6 +32,10 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
+/**
+ * Author: Cosmin Chiriac
+ * Date: 2025-03-01
+ */
 public class OwnerProcessor {
 
   private final FileSystemHelper fileSystemHelper;

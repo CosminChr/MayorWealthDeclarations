@@ -4,6 +4,10 @@ import java.time.Duration;
 import java.time.LocalDateTime;
 import java.util.List;
 
+/**
+ * Author: Cosmin Chiriac
+ * Date: 2025-03-01
+ */
 public class ApplicationLogger {
 
   public void logExecutionDuration(LocalDateTime startTime) throws InterruptedException {

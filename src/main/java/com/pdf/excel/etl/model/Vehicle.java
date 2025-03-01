@@ -1,11 +1,14 @@
 package com.pdf.excel.etl.model;
 
-import lombok.Data;
 import lombok.Getter;
 import lombok.Setter;
 
 import java.util.Objects;
 
+/**
+ * Author: Cosmin Chiriac
+ * Date: 2025-03-01
+ */
 @Getter
 @Setter
 public class Vehicle {
